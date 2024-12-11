@@ -3,7 +3,7 @@ entries:
   helm-example:
   - apiVersion: v2
     appVersion: v0.0.1
-    created: "2024-12-11T16:03:01.498403+05:30"
+    created: "2024-12-11T16:16:55.125094+05:30"
     description: Simple API application.
     digest: a4c697255ae7b5752281bc6598b2d48d03782ee3f86aba0f0d8bbd5fbad91003
     maintainers:
@@ -19,7 +19,7 @@ entries:
   mysql-operator:
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2024-12-11T16:03:01.49875+05:30"
+    created: "2024-12-11T16:16:55.125527+05:30"
     description: A Helm chart for Kubernetes
     digest: 6ea2b02d9d0a5946506b269fe3e44ab7f17f268f5bf5b657d0755fc2d91d7245
     name: mysql-operator
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://cyrilvarghese7.github.io/argocd-test/charts/mysql-operator-v0.4.1.tgz
     version: v0.4.1
-generated: "2024-12-11T16:03:01.497999+05:30"
+generated: "2024-12-11T16:16:55.124328+05:30"
