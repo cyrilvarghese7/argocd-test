@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-cm
+  labels:
+    test: app
+data:
+  replicas: {{ .Values.testval }}
+
