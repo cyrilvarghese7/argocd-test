@@ -14,7 +14,7 @@ entries:
     - https://github.com/nakamasato/flask-test
     type: application
     urls:
-    - https://cyrilvarghese7.github.io/argocd-test/charts/charts/helm-example-0.1.1.tgz
+    - https://cyrilvarghese7.github.io/argocd-test/charts/helm-example-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: v0.0.1
